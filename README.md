@@ -63,12 +63,16 @@ Este port **não é um emulador de Xbox 360**. O executável do jogo (`default.x
 
 O port é feito para **uma versão específica** do executável. O código é recompilado a partir deste arquivo, então o que vale é o `default.xex` ser **idêntico**: confira o hash abaixo.
 
+> [!TIP]
+> O executável não tem trava de região, então a **região do disco não importa**: o que vale é o `default.xex` ter exatamente o hash abaixo (a cópia usada traz vídeos tanto `_US` quanto `_EMEA`).
+
 | Campo | Valor |
 |---|---|
 | Jogo | Naruto: The Broken Bond (Xbox 360) |
 | Title ID | `55530825` |
 | Media ID | `09FFE047` |
 | Versão do executável | `0.0.0.3` |
+| Trava de região do executável | nenhuma (region free); a região vem do disco |
 
 | Arquivo | Tamanho | SHA-1 | MD5 |
 |---|---|---|---|
